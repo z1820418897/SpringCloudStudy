@@ -1,0 +1,36 @@
+server:
+  port: 33514
+spring:
+  application:
+    name: database-server-01
+
+  redis:
+    database: 0
+    #host: 192.168.253.129
+    host: 10.10.2.176
+    port: 6379
+    password: 123456
+    jedis:
+      pool:
+        #最大连接数
+        max-active: 8
+        #最大阻塞等待时间(负数表示没限制)
+        max-wait: -1ms
+        #最大空闲
+        max-idle: 8
+        #最小空闲
+        min-idle: 0
+      timeout: 10000
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:32514/eureka/ #eureka注册地址
+
+
+
+
+

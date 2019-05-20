@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/CatEyeProjectJavaServer.iml" filepath="$PROJECT_DIR$/.idea/CatEyeProjectJavaServer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/cateyeproject-javaserver-api/cateyeproject-javaserver-api.iml" filepath="$PROJECT_DIR$/cateyeproject-javaserver-api/cateyeproject-javaserver-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/consumer-server-01/consumer-server-01.iml" filepath="$PROJECT_DIR$/consumer-server-01/consumer-server-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-server-01/database-server-01.iml" filepath="$PROJECT_DIR$/database-server-01/database-server-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/database-server-01/databaseserver01.iml" filepath="$PROJECT_DIR$/database-server-01/databaseserver01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-01/eureka-server-01.iml" filepath="$PROJECT_DIR$/eureka-server-01/eureka-server-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka-server-01/eurekaserver01.iml" filepath="$PROJECT_DIR$/eureka-server-01/eurekaserver01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/filebase-server-01/filebaseserver01.iml" filepath="$PROJECT_DIR$/filebase-server-01/filebaseserver01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/web-server-01/web-server-01.iml" filepath="$PROJECT_DIR$/web-server-01/web-server-01.iml" />
+      <module fileurl="file://$PROJECT_DIR$/zuul-server-01/zuul-server-01.iml" filepath="$PROJECT_DIR$/zuul-server-01/zuul-server-01.iml" />
+    </modules>
+  </component>
+</project>

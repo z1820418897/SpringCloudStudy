@@ -1,0 +1,17 @@
+server:
+  port: 32514 #端口
+
+eureka:
+  instance:
+    hostname: eureka-server-01 #eureka服务实例
+  client:
+    register-with-eureka: false #不拔自己注册在服务上
+    fetch-registry: false #不从eureka来获取服务的注册信息
+    service-url:
+      defaultZone: http://localhost:32514/eureka/ #eureka注册地址
+
+
+
+
+
+

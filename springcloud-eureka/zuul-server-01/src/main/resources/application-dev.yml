@@ -1,0 +1,26 @@
+server:
+  port: 8080
+spring:
+  application:
+    name: zuul-server-01
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:32514/eureka/ #eureka注册地址
+
+zuul:
+  routes:
+
+    api-a:
+      path: /api-a/**
+      serviceId: consumer-server-01
+    api-b:
+      path: /api-b/**
+      serviceId: consumer-server-02
+    #匹配/github/直接重定向到https://github.com/
+#    github:
+#      path: /github/**
+#      url: https://github.com/

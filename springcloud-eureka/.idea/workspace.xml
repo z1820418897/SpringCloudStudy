@@ -1,0 +1,1134 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="84f9447e-ae52-48f6-8caa-4d33d40e1c81" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <ignored path="$PROJECT_DIR$/eureka-server-01/target/" />
+    <ignored path="$PROJECT_DIR$/database-server-01/target/" />
+    <ignored path="$PROJECT_DIR$/cat_eye_project_java_server_api/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-server/target/" />
+    <ignored path="$PROJECT_DIR$/consumer-server-01/target/" />
+    <ignored path="$PROJECT_DIR$/cateyeproject-javaserver-api/target/" />
+    <ignored path="$PROJECT_DIR$/filebase-server-01/target/" />
+    <ignored path="$PROJECT_DIR$/zuul-server-01/target/" />
+    <ignored path="$PROJECT_DIR$/web-server-01/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/CatEyeProjectJavaServer$All_Features_in__eureka_server_01.ic" NAME="All Features in: eureka-server-01 Coverage Results" MODIFIED="1555912239738" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>cucumber.api.cli.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="-1992274154">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="7" />
+          <entry key="project.open.time.104" value="1" />
+          <entry key="project.open.time.3" value="1" />
+          <entry key="project.open.time.57" value="1" />
+          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.65" value="1" />
+          <entry key="project.open.time.73" value="1" />
+          <entry key="project.open.time.88" value="1" />
+          <entry key="project.open.time.94" value="1" />
+          <entry key="project.opened" value="8" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="17" />
+          <entry key="conf" value="3" />
+          <entry key="iml" value="5" />
+          <entry key="java" value="120" />
+          <entry key="json" value="1" />
+          <entry key="pom" value="15" />
+          <entry key="properties" value="2" />
+          <entry key="propeties" value="1" />
+          <entry key="xml" value="41" />
+          <entry key="xsd" value="1" />
+          <entry key="yml" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="17" />
+          <entry key="IDEA_MODULE" value="5" />
+          <entry key="JAVA" value="120" />
+          <entry key="JSON" value="1" />
+          <entry key="PLAIN_TEXT" value="3" />
+          <entry key="Properties" value="2" />
+          <entry key="XHTML" value="1" />
+          <entry key="XML" value="57" />
+          <entry key="YAML" value="38" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="conf" value="31" />
+          <entry key="dummy" value="5" />
+          <entry key="java" value="10206" />
+          <entry key="pom" value="1" />
+          <entry key="properties" value="38" />
+          <entry key="txt" value="20" />
+          <entry key="xml" value="477" />
+          <entry key="yml" value="456" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10206" />
+          <entry key="PLAIN_TEXT" value="56" />
+          <entry key="Properties" value="38" />
+          <entry key="XML" value="478" />
+          <entry key="YAML" value="456" />
+        </counts>
+      </usages-collector>
+    </session>
+    <session id="-793458812">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.2" value="1" />
+          <entry key="project.opened" value="1" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="java" value="11" />
+          <entry key="xml" value="4" />
+          <entry key="yml" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="JAVA" value="11" />
+          <entry key="XML" value="4" />
+          <entry key="YAML" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="523" />
+          <entry key="xml" value="18" />
+          <entry key="yml" value="27" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="523" />
+          <entry key="XML" value="18" />
+          <entry key="YAML" value="27" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/WebServerApplication.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="190">
+              <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#336#337#0" expanded="true" />
+                <element signature="e#405#406#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/bean/SocketMessage.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="304">
+              <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server-01/pom.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="459">
+              <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/config/WebSockerConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/socket/SocketHandler.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="266">
+              <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#975#976#0" expanded="true" />
+                <element signature="e#1003#1004#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/config/WebMvcConfig.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="285">
+              <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/web-server-01/src/main/resources/application.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="209">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/socket/HandshakeInterceptor.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="421">
+              <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/resources/application-dev.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="133">
+              <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>web</find>
+    </findStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/filebase-server-01/src/main/java/com/gc/filebaseserver/serviceimpl/CateyeServiceImpl.java" />
+        <option value="$PROJECT_DIR$/filebase-server-01/src/main/java/com/gc/filebaseserver/services/FileService.java" />
+        <option value="$PROJECT_DIR$/filebase-server-01/src/main/java/com/gc/filebaseserver/serviceimpl/FileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/filebase-server-01/src/main/java/com/gc/filebaseserver/controller/FileController.java" />
+        <option value="$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/serviceimpl/FileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/controller/FileServiceImpl.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/services/FileService.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/hystrix/CatServiceHystrix.java" />
+        <option value="$PROJECT_DIR$/eureka-server-01/pom.xml" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/ConsumerServerApplication.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/config/HystrixDashBoardConfig.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/pom.xml" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/util/Mesage.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/util/Message.java" />
+        <option value="$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/config/RedisConfig.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/Visitor.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/ErrorCode.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/FIleInfo.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/GroupFile.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/services/hystrix/CatServiceHystrix.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/database-server-01/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/database-server-01/pom.xml" />
+        <option value="$PROJECT_DIR$/zuul-server-01/src/main/java/com/gc/zuulserver/ZuulServerApplication.java" />
+        <option value="$PROJECT_DIR$/zuul-server-01/src/main/resources/application-dev.yml" />
+        <option value="$PROJECT_DIR$/zuul-server-01/src/main/java/com/gc/zuulserver/provider/MyFallbackProvider.java" />
+        <option value="$PROJECT_DIR$/zuul-server-01/src/main/java/com/gc/zuulserver/filter/LoginFilter.java" />
+        <option value="$PROJECT_DIR$/zuul-server-01/pom.xml" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/code/ErrorCode.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/Warning.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/util/DateUtil.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/FileInfo.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/DateUtil.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/util/DateFormat.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/services/CateyeService.java" />
+        <option value="$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/controller/CateyeController.java" />
+        <option value="$PROJECT_DIR$/database-server-01/src/main/resources/application.properties" />
+        <option value="$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/controller/CateyeController.java" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/bean/SocketMessage.java" />
+        <option value="$PROJECT_DIR$/cateyeproject-javaserver-api/pom.xml" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/webserver/WebServerApplication.java" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/bean/SocketMessage.java" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/WebServerApplication.java" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/comfig/WebSockerConfig.java" />
+        <option value="$PROJECT_DIR$/web-server-01/pom.xml" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/socket/HandshakeInterceptor.java" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/config/WebSockerConfig.java" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/socket/SocketHandler.java" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/config/WebMvcConfig.java" />
+        <option value="$PROJECT_DIR$/web-server-01/src/main/resources/application.yml" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="380" />
+    <option name="y" value="13" />
+    <option name="width" value="1474" />
+    <option name="height" value="1020" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <flattenPackages ProjectPane="false" />
+      <showMembers ProjectPane="false" />
+      <hideEmptyPackages ProjectPane="false" />
+      <abbreviatePackageNames ProjectPane="true" />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-server-01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="consumer-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="com" type="462c0819:PsiDirectoryNode" />
+              <item name="gc" type="462c0819:PsiDirectoryNode" />
+              <item name="webserver" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="springcloud-eureka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="springcloud-eureka" type="462c0819:PsiDirectoryNode" />
+              <item name="web-server-01" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+              <item name="static" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="AndroidView" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="RequestMappingsPanelOrder0" value="0" />
+    <property name="RequestMappingsPanelOrder1" value="1" />
+    <property name="RequestMappingsPanelOrder2" value="2" />
+    <property name="RequestMappingsPanelWidth0" value="75" />
+    <property name="RequestMappingsPanelWidth1" value="75" />
+    <property name="RequestMappingsPanelWidth2" value="75" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1557449120259" />
+    <property name="jdk.selected.JAVA_MODULE" value="1.8" />
+    <property name="last_opened_file_path" value="E:/doorkeeper" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="restartRequiresConfirmation" value="false" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\CatEyeProjectJavaServer\zuul-server-01\src\main\resources" />
+      <recent name="D:\CatEyeProjectJavaServer\filebase-server-01\src\main\java\com\gc\filebaseserver" />
+      <recent name="D:\CatEyeProjectJavaServer\filebase-server-01\src\main\resources" />
+      <recent name="D:\CatEyeProjectJavaServer\consumer-server-01\src\main\resources" />
+      <recent name="D:\CatEyeProjectJavaServer\database-server-01\src\main\resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.gc.consumerserver.services" />
+      <recent name="com.gc.consumerserver.controller" />
+      <recent name="com.gc.databaseserver.serviceimpl" />
+      <recent name="com.gc.filebaseserver.config" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\CatEyeProjectJavaServer\database-server-01\src\main\resources" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Maven.maven">
+    <configuration name="maven" type="MavenRunConfiguration" factoryName="Maven">
+      <MavenSettings>
+        <option name="myGeneralSettings" />
+        <option name="myRunnerSettings" />
+        <option name="myRunnerParameters">
+          <MavenRunnerParameters>
+            <option name="profiles">
+              <set />
+            </option>
+            <option name="goals">
+              <list>
+                <option value="tomcat:run" />
+              </list>
+            </option>
+            <option name="pomFileName" />
+            <option name="profilesMap">
+              <map />
+            </option>
+            <option name="resolveToWorkspace" value="false" />
+            <option name="workingDirPath" value="$PROJECT_DIR$/eureka-server-01" />
+          </MavenRunnerParameters>
+        </option>
+      </MavenSettings>
+      <method v="2" />
+    </configuration>
+    <configuration name="ConsumerServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="consumer-server-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gc.consumerserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gc.consumerserver.ConsumerServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DataBaseServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="database-server-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gc.databaseserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gc.databaseserver.DataBaseServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EurekaServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="eureka-server-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gc.eurekaserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gc.eurekaserver.EurekaServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZuulServerApplication" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="zuul-server-01" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.gc.zuulserver.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.gc.zuulserver.ZuulServerApplication" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Maven.maven" />
+      <item itemvalue="Spring Boot.EurekaServerApplication" />
+      <item itemvalue="Spring Boot.DataBaseServerApplication" />
+      <item itemvalue="Spring Boot.ConsumerServerApplication" />
+      <item itemvalue="Spring Boot.ZuulServerApplication" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="84f9447e-ae52-48f6-8caa-4d33d40e1c81" name="Default Changelist" comment="" />
+      <created>1555044238749</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1555044238749</updated>
+      <workItem from="1555044240491" duration="26540000" />
+      <workItem from="1555919530953" duration="1188000" />
+      <workItem from="1555927025651" duration="2000000" />
+      <workItem from="1555997768111" duration="619000" />
+      <workItem from="1556009546572" duration="16745000" />
+      <workItem from="1556097076640" duration="143000" />
+      <workItem from="1556188028956" duration="68475000" />
+      <workItem from="1557111494722" duration="36802000" />
+      <workItem from="1557391991244" duration="6005000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="All_Features_in__eureka-server-01 - 2019.04.22 at 13h 50m 07s.xml">
+      <configuration name="All Features in: eureka-server-01" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+    <history-entry file="All_Features_in__eureka-server-01 - 2019.04.22 at 13h 50m 56s.xml">
+      <configuration name="All Features in: eureka-server-01" configurationId="CucumberJavaRunConfigurationType" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="158517000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="380" y="13" width="1474" height="1020" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Web" side_tool="true" />
+      <window_info id="UI Designer" />
+      <window_info active="true" content_ui="combo" x="603" y="200" width="507" height="759" id="Project" order="0" visible="true" weight="0.3195435" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="Terminal" order="8" />
+      <window_info anchor="bottom" id="Event Log" order="9" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="10" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Java Enterprise" order="12" />
+      <window_info anchor="right" id="Palette" />
+      <window_info anchor="right" id="Maven Projects" weight="0.32894737" />
+      <window_info anchor="right" id="Database" weight="0.32950923" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.24984066" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Flutter Inspector" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Flutter Outline" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Theme Preview" order="7" />
+      <window_info anchor="right" id="Bean Validation" order="8" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="jar://$APPLICATION_HOME_DIR$/plugins/maven/lib/maven.jar!/schemas/maven-4.0.0.xsd" />
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="45" column="21" selection-start-line="45" selection-start-column="21" selection-end-line="45" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/Visitor.java" />
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/code.java" />
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/serviceimpl/CateyeServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/spring-web/5.1.6.RELEASE/spring-web-5.1.6.RELEASE.jar!/org/springframework/web/multipart/MultipartFile.class" />
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/config/HystrixDashBoardConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="8" column="13" selection-start-line="8" selection-start-column="13" selection-end-line="8" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/config/FastClientImporter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="114">
+          <caret line="10" column="54" selection-start-line="10" selection-start-column="54" selection-end-line="10" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/services/hystrix/CatServiceHystrix.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="113">
+          <caret line="30" column="20" selection-start-line="30" selection-start-column="20" selection-end-line="30" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/time/Duration.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="132" column="19" selection-start-line="132" selection-start-column="19" selection-end-line="132" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/boot/spring-boot-autoconfigure/2.1.4.RELEASE/spring-boot-autoconfigure-2.1.4.RELEASE.jar!/org/springframework/boot/autoconfigure/data/redis/RedisProperties.class" />
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/services/CateyeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="17" selection-start-line="4" selection-start-column="17" selection-end-line="4" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-server-01/src/main/java/com/gc/zuulserver.java" />
+    <entry file="file://$PROJECT_DIR$/zuul-server-01/src/main/java/com/gc/zuulserver/provider/MyFallbackProvider.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="24" column="79" selection-start-line="24" selection-start-column="79" selection-end-line="24" selection-end-column="79" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-server-01/src/main/java/com/gc/zuulserver/filter/LoginFilter.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="30" column="7" selection-start-line="30" selection-start-column="7" selection-end-line="30" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/ConsumerServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-server-01/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="10" selection-start-line="19" selection-start-column="10" selection-end-line="19" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-server-01/src/main/java/com/gc/zuulserver/ZuulServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="11" column="36" selection-start-line="11" selection-start-column="36" selection-end-line="11" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://C:/Program Files/Java/jdk1.8.0_171/src.zip!/java/util/Date.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="177" column="24" lean-forward="true" selection-start-line="177" selection-start-column="24" selection-end-line="177" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zuul-server-01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="20" selection-start-line="20" selection-start-column="20" selection-end-line="20" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/code/ErrorCode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="38" lean-forward="true" selection-start-line="14" selection-start-column="38" selection-end-line="14" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/Warning.java" />
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/util/Message.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="23" lean-forward="true" selection-start-line="15" selection-start-column="23" selection-end-line="15" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/util/DateFormat.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="398">
+          <caret line="94" column="62" lean-forward="true" selection-start-line="94" selection-start-column="62" selection-end-line="94" selection-end-column="62" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/springframework/data/spring-data-redis/2.1.6.RELEASE/spring-data-redis-2.1.6.RELEASE.jar!/org/springframework/data/redis/core/ZSetOperations.class" />
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/services/CateyeService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="512">
+          <caret line="39" column="89" lean-forward="true" selection-start-line="39" selection-start-column="89" selection-end-line="39" selection-end-column="89" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/java/com/gc/consumerserver/controller/CateyeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="626">
+          <caret line="105" column="7" lean-forward="true" selection-start-line="105" selection-start-column="7" selection-end-line="105" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/resources/application.propeties" />
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/resources/application.properties" />
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="380">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/GroupFile.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="152">
+          <caret line="14" column="48" selection-start-line="14" selection-start-column="48" selection-end-line="14" selection-end-column="48" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/config/RedisConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="20" column="33" selection-start-line="20" selection-start-column="33" selection-end-line="20" selection-end-column="33" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/DateUtil.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/FileInfo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/controller/CateyeController.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="78" column="9" selection-start-line="78" selection-start-column="9" selection-end-line="78" selection-end-column="9" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="method#redisAddFileInfo#0;class#CateyeController#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="14" lean-forward="true" selection-start-line="16" selection-start-column="14" selection-end-line="16" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database-server-01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="21" column="56" lean-forward="true" selection-start-line="21" selection-start-column="56" selection-end-line="21" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/src/main/java/com/gc/bean/Cateye.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="15" column="1" lean-forward="true" selection-start-line="15" selection-start-column="1" selection-end-line="15" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/webserver/WebServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="38">
+          <caret line="2" column="33" selection-start-line="2" selection-start-column="33" selection-end-line="2" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/database-server-01/src/main/java/com/gc/databaseserver/DataBaseServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="171">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/cateyeproject-javaserver-api/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="17" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="459">
+          <caret line="27" column="21" lean-forward="true" selection-start-line="27" selection-start-column="21" selection-end-line="27" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/WebServerApplication.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="190">
+          <caret line="10" column="35" lean-forward="true" selection-start-line="10" selection-start-column="35" selection-end-line="10" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#336#337#0" expanded="true" />
+            <element signature="e#405#406#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/bean/SocketMessage.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="304">
+          <caret line="16" column="1" lean-forward="true" selection-start-line="16" selection-start-column="1" selection-end-line="16" selection-end-column="1" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/config/WebSockerConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="13" selection-start-line="11" selection-start-column="13" selection-end-line="11" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/socket/HandshakeInterceptor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="421">
+          <caret line="25" column="7" lean-forward="true" selection-start-line="25" selection-start-column="7" selection-end-line="25" selection-end-column="7" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/socket/SocketHandler.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="266">
+          <caret line="14" lean-forward="true" selection-start-line="14" selection-end-line="14" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#975#976#0" expanded="true" />
+            <element signature="e#1003#1004#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/java/com/gc/webserver/config/WebMvcConfig.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" lean-forward="true" selection-start-line="15" selection-end-line="15" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/consumer-server-01/src/main/resources/application-dev.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="133">
+          <caret line="7" column="17" lean-forward="true" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web-server-01/src/main/resources/application.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>Spring</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>web-server-01</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+                <option value="0.6" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: antlr:antlr:2.7.7</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

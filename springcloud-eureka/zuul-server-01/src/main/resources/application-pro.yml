@@ -1,0 +1,8 @@
+server:
+  servlet:
+    context-path: /mysecurity
+  port: 32515
+
+
+
+

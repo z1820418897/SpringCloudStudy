@@ -1,0 +1,12 @@
+server:
+  servlet:
+    context-path: /
+  port: 8888
+
+spring:
+  application:
+    name: web-server-01
+
+thymeleaf:
+  prefix: classpath:/templates/
+  cache: false

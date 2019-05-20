@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="cateyeproject-javaserver-api" />
+        <module name="consumer-server-01" />
+        <module name="database-server-01" />
+        <module name="databaseserver01" />
+        <module name="eureka-server-01" />
+        <module name="eurekaserver01" />
+        <module name="filebaseserver01" />
+        <module name="web-server-01" />
+        <module name="zuul-server-01" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="cateyeproject-javaserver-api" target="1.8" />
+      <module name="CatEyeProjectJavaServer" target="1.8" />
+      <module name="consumer-server-01" target="1.8" />
+      <module name="consumerserver" target="1.8" />
+      <module name="database-server-01" target="1.8" />
+      <module name="databaseserver01" target="1.8" />
+      <module name="eureka-server-01" target="1.8" />
+      <module name="eurekaserver01" target="1.8" />
+      <module name="filebase-server-01" target="1.8" />
+      <module name="filebaseserver01" target="1.8" />
+      <module name="web-server-01" target="1.8" />
+      <module name="zuul-server-01" target="1.8" />
+      <module name="zuulserver01" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

@@ -1,0 +1,27 @@
+server:
+  port: 34514
+spring:
+  application:
+    name: consumer-server-01
+feign:
+  hystrix:
+    enabled: true
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:32514/eureka/ #eureka注册地址
+
+fdfs:
+  soTimeout: 1500
+  connectTimeout: 600
+  trackerList:
+  - 192.168.253.129:22122
+  thumbImage:
+    height: 150
+    width: 150
+
+fileHttpAddr: http://192.168.253.129:80/
