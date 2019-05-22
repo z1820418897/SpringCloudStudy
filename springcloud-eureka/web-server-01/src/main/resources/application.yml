@@ -3,10 +3,25 @@ server:
     context-path: /
   port: 8888
 
+
+
 spring:
   application:
     name: web-server-01
+  mvc:
+    view:
+      prefix: /templates/
+      suffix: .html
 
 thymeleaf:
   prefix: classpath:/templates/
   cache: false
+
+
+
+eureka:
+  instance:
+    prefer-ip-address: true
+  client:
+    service-url:
+      defaultZone: http://localhost:32514/eureka/ #eureka注册地址
