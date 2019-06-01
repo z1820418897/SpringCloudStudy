@@ -37,7 +37,24 @@ public class CatServiceHystrix implements CateyeService {
     }
 
     @Override
-    public Integer findExistDate(Integer deviceId) {
+    public Set<Long> findExistWarningDay(String key, Long startDate, Long overDate) {
         return null;
     }
+
+    @Override
+    public Set<Long> findExistVisitorDay(String key, Long startDate, Long overDate) {
+        return null;
+    }
+
+    @Override
+    public Integer deleteWarningData(String key, Long[] date) {
+        return null;
+    }
+
+    @Override
+    public Integer deleteVisitorData(String key, Long[] date) {
+        return null;
+    }
+
+
 }
