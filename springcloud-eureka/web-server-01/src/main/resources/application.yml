@@ -30,3 +30,13 @@ eureka:
       defaultZone: http://localhost:32514/eureka/ #eureka注册地址
 
 
+
+#配置验证码
+FontSize: 18
+width: 100
+height: 30
+lineSize: 50
+CodeNum: 4
+CodeKey: CateyeKey
+
+
